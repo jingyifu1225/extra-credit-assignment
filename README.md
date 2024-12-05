@@ -15,17 +15,17 @@ This project implements an in-memory key-value database in C++ with transaction 
 1. Open a terminal and navigate to the project directory:
    ```bash
    cd <path-to-your-folder>
+   ```
 
 2. Compile the code using the following command:
    ```bash
    g++ -o inmemory_db inmemory_db.cpp
+   ```
   
 3.  Run the program:
    ```bash
    ./inmemory_db
-
----
-
+   ```
 
 
 Future Improvements
